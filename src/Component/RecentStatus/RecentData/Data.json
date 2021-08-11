@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "orderName": "Beans And Bread",
+    "cusName": "Okon Bisi",
+    "location": "Okon Bisi",
+    "status": "cancell",
+    "time": "34:45",
+    "price": 23090
+  },
+  {
+    "id": 2,
+    "orderName": "Fufu and egusi",
+    "cusName": "Okon Bisi",
+    "location": "ikeja olorudu",
+    "status": "Dilevery",
+    "time": "34:45",
+    "price": 290
+  },
+  {
+    "id": 3,
+    "orderName": "Fried Rice",
+    "cusName": "pepe joy",
+    "location": "ikeja lagos",
+    "status": "Dilevery",
+    "time": "02:50",
+    "price": 290
+  },
+  {
+    "id": 4,
+    "orderName": "Jellof Rice",
+    "cusName": "chuck peter",
+    "location": "ikeja lagos",
+    "status": "cancel",
+    "time": "00:00",
+    "price": 290
+  },
+  {
+    "id": 5,
+    "orderName": "Coconut  Rice",
+    "cusName": "maduka peter",
+    "location": "ikeja lagos",
+    "status": "cancel",
+    "time": "00:00",
+    "price": 290
+  },
+  {
+    "id": 6,
+    "orderName": "pepper soup  Rice",
+    "cusName": "maduka peter",
+    "location": "ikeja lagos",
+    "status": "cancel",
+    "time": "00:00",
+    "price": 290
+  }
+]
